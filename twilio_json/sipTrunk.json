@@ -1,0 +1,10 @@
+{
+    "outbound_address": "simon-livekit.pstn.twilio.com",
+    "outbound_number": "+16674014384",
+    "outbound_username": "Simongoback123",
+    "outbound_password": "Simongoback123",
+    "inbound_addresses": [],
+    "inbound_numbers": [],
+    "inbound_username": "",
+    "inbound_password": ""
+}

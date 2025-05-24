@@ -1,0 +1,477 @@
+{
+    "products": [
+        {
+            "id": 21513207829,
+            "title": "Pet safety Clip-On Mini Fan (battery-powered)",
+            "body_html": "<ul class=\"a-unordered-list a-vertical a-spacing-none\">\n<li class=\"showHiddenFeatureBullets\"><span class=\"a-list-item\"> KEEP YOUR PET COOL AND COMFY – This Stroller Fan is perfect for keeping your pets from overheating in the stroller on hot and humid days.</span></li>\n<li class=\"showHiddenFeatureBullets\">\n<span class=\"a-list-item\"> SAFETY COMES FIRST – T</span>he soft fins are safe to the touch, so even if your pet reaches for the fan, you don’t have to worry.</li>\n<li class=\"showHiddenFeatureBullets\"><span class=\"a-list-item\"> <span>360° </span>FLEXIBLE NECK AND STURDY CLIP – Whether it's a stroller on the move, or home, it employs a flexible neck and stout clip, allowing the fan to keep your pet cool no matter the surface or angle.</span></li>\n<li class=\"showHiddenFeatureBullets\"><span class=\"a-list-item\"> BREEZE ON THE GO – It is lightweight, portable and easily fits in your bag of essentials, set the fan up alongside your pet to watch them cozily and comfortably nap away long summer days.</span></li>\n<li class=\"showHiddenFeatureBullets\"><span>BATTERY POWERED - It is lightweight, portable and easily fits in your bag of essentials. Simply insert 2 AA batteries (not included), and set the fan up alongside your pet to watch them cozily and comfortably nap away long summer days.</span></li>\n<li class=\"showHiddenFeatureBullets\"><span class=\"a-list-item\">Size: <span data-mce-fragment=\"1\">8.27 x 4.53 x 2.56</span> inches</span></li>\n</ul>",
+            "vendor": "HPZ",
+            "product_type": "acc",
+            "created_at": "2017-10-31T03:14:32-07:00",
+            "handle": "clip-on-usb-rechargeable-mini-travel-fan",
+            "updated_at": "2024-07-09T17:35:02-07:00",
+            "published_at": "2021-06-21T00:25:56-07:00",
+            "template_suffix": "accessories-new",
+            "published_scope": "global",
+            "tags": "Global upsell recommendations",
+            "image": {
+                "id": 29522202525835,
+                "product_id": 21513207829,
+                "position": 1,
+                "created_at": "2022-04-03T00:35:01-07:00",
+                "updated_at": "2023-10-09T21:00:59-07:00",
+                "alt": null,
+                "width": 1500,
+                "height": 1500,
+                "src": "https://cdn.shopify.com/s/files/1/2115/8957/products/81Yo1PUqlfL._SL1500.jpg?v=1696910459",
+                "variant_ids": [
+                    40095009964171
+                ],
+                "admin_graphql_api_id": "gid://shopify/ProductImage/29522202525835"
+            },
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/21513207829",
+            "options": [
+                {
+                    "id": 28045312021,
+                    "product_id": 21513207829,
+                    "name": "Title",
+                    "position": 1
+                }
+            ],
+            "images": [
+                {
+                    "id": 29522202525835,
+                    "product_id": 21513207829,
+                    "position": 1,
+                    "created_at": "2022-04-03T00:35:01-07:00",
+                    "updated_at": "2023-10-09T21:00:59-07:00",
+                    "alt": null,
+                    "width": 1500,
+                    "height": 1500,
+                    "src": "https://cdn.shopify.com/s/files/1/2115/8957/products/81Yo1PUqlfL._SL1500.jpg?v=1696910459",
+                    "variant_ids": [
+                        40095009964171
+                    ],
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/29522202525835"
+                },
+                {
+                    "id": 29522202394763,
+                    "product_id": 21513207829,
+                    "position": 2,
+                    "created_at": "2022-04-03T00:35:00-07:00",
+                    "updated_at": "2023-10-09T21:00:59-07:00",
+                    "alt": null,
+                    "width": 488,
+                    "height": 488,
+                    "src": "https://cdn.shopify.com/s/files/1/2115/8957/products/GUEST_9db342b9-1d6e-423f-9d7d-a288e84eddec.jpg?v=1696910459",
+                    "variant_ids": [],
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/29522202394763"
+                },
+                {
+                    "id": 29522202558603,
+                    "product_id": 21513207829,
+                    "position": 3,
+                    "created_at": "2022-04-03T00:35:02-07:00",
+                    "updated_at": "2023-10-09T21:00:59-07:00",
+                    "alt": null,
+                    "width": 1500,
+                    "height": 1500,
+                    "src": "https://cdn.shopify.com/s/files/1/2115/8957/products/81wGb2qqiqL._SL1500.jpg?v=1696910459",
+                    "variant_ids": [],
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/29522202558603"
+                },
+                {
+                    "id": 29522202427531,
+                    "product_id": 21513207829,
+                    "position": 4,
+                    "created_at": "2022-04-03T00:35:01-07:00",
+                    "updated_at": "2023-10-09T21:00:59-07:00",
+                    "alt": null,
+                    "width": 699,
+                    "height": 1500,
+                    "src": "https://cdn.shopify.com/s/files/1/2115/8957/products/712v-BZgzdL._SL1500.jpg?v=1696910459",
+                    "variant_ids": [],
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/29522202427531"
+                },
+                {
+                    "id": 29298717982859,
+                    "product_id": 21513207829,
+                    "position": 5,
+                    "created_at": "2022-02-24T14:36:34-08:00",
+                    "updated_at": "2023-10-09T21:00:59-07:00",
+                    "alt": null,
+                    "width": 2855,
+                    "height": 2855,
+                    "src": "https://cdn.shopify.com/s/files/1/2115/8957/products/l230_11__1.jpg?v=1696910459",
+                    "variant_ids": [],
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/29298717982859"
+                },
+                {
+                    "id": 29298718113931,
+                    "product_id": 21513207829,
+                    "position": 6,
+                    "created_at": "2022-02-24T14:36:34-08:00",
+                    "updated_at": "2023-10-09T21:00:59-07:00",
+                    "alt": null,
+                    "width": 1701,
+                    "height": 1211,
+                    "src": "https://cdn.shopify.com/s/files/1/2115/8957/products/Screenshot_16.jpg?v=1696910459",
+                    "variant_ids": [],
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/29298718113931"
+                }
+            ]
+        },
+        {
+            "id": 5023350980747,
+            "title": "Replacement Wheel for HPZ Pet Rover Stroller (Single)",
+            "body_html": "<p>Shipping and handling fees of each wheel will be charged at check out. Please refer to our <a href=\"https://petroverusa.com/pages/warranty\">Warranty page</a> for details.</p>\n<p><span>⚠️The product image shown is for illustration purposes only and <span style=\"color: #c62100;\">may NOT be an exact representation of the actual product</span>.</span></p>\n<p><span>This product is only compatible with HPZ Pet Rover strollers. </span></p>",
+            "vendor": "HPZ",
+            "product_type": "acc",
+            "created_at": "2020-09-23T15:37:35-07:00",
+            "handle": "replace-wheel-for-pet-rover-stroller-single",
+            "updated_at": "2024-07-09T13:15:07-07:00",
+            "published_at": "2021-06-21T00:26:03-07:00",
+            "template_suffix": "accessories-new",
+            "published_scope": "global",
+            "tags": "Replacement Parts",
+            "image": {
+                "id": 28713342435467,
+                "product_id": 5023350980747,
+                "position": 1,
+                "created_at": "2021-11-10T12:01:48-08:00",
+                "updated_at": "2021-11-10T12:03:37-08:00",
+                "alt": null,
+                "width": 1461,
+                "height": 1456,
+                "src": "https://cdn.shopify.com/s/files/1/2115/8957/products/Screenshot_5.jpg?v=1636574617",
+                "variant_ids": [],
+                "admin_graphql_api_id": "gid://shopify/ProductImage/28713342435467"
+            },
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/5023350980747",
+            "options": [
+                {
+                    "id": 6513967923339,
+                    "product_id": 5023350980747,
+                    "name": "⚠️Choose wheel type:",
+                    "position": 1
+                }
+            ],
+            "images": [
+                {
+                    "id": 28713342435467,
+                    "product_id": 5023350980747,
+                    "position": 1,
+                    "created_at": "2021-11-10T12:01:48-08:00",
+                    "updated_at": "2021-11-10T12:03:37-08:00",
+                    "alt": null,
+                    "width": 1461,
+                    "height": 1456,
+                    "src": "https://cdn.shopify.com/s/files/1/2115/8957/products/Screenshot_5.jpg?v=1636574617",
+                    "variant_ids": [],
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/28713342435467"
+                },
+                {
+                    "id": 28508782887051,
+                    "product_id": 5023350980747,
+                    "position": 2,
+                    "created_at": "2021-09-21T22:51:52-07:00",
+                    "updated_at": "2021-11-10T12:03:37-08:00",
+                    "alt": null,
+                    "width": 1948,
+                    "height": 1285,
+                    "src": "https://cdn.shopify.com/s/files/1/2115/8957/products/Screenshot_1.jpg?v=1636574617",
+                    "variant_ids": [],
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/28508782887051"
+                }
+            ]
+        },
+        {
+            "id": 5023373361291,
+            "title": "Replacement Handlebar Cover for Pet Rover Stroller (Dark Brown)",
+            "body_html": "<p>Replacement Handlebar Cover for Pet Rover Stroller.</p>\n<p><span>This product is only compatible with HPZ Pet Rover strollers. </span></p>\n<p><span>The product image shown is for illustration purposes only and may not be an exact representation of the actual product.</span></p>",
+            "vendor": "HPZ",
+            "product_type": "acc",
+            "created_at": "2020-09-23T16:11:59-07:00",
+            "handle": "replacement-handlebar-cover-for-pet-rover-stroller-single",
+            "updated_at": "2024-07-08T08:30:10-07:00",
+            "published_at": "2021-06-21T00:26:03-07:00",
+            "template_suffix": "accessories-new",
+            "published_scope": "global",
+            "tags": "Replacement Parts",
+            "image": {
+                "id": 28253473636491,
+                "product_id": 5023373361291,
+                "position": 1,
+                "created_at": "2021-06-16T20:50:35-07:00",
+                "updated_at": "2023-03-30T13:59:54-07:00",
+                "alt": null,
+                "width": 1349,
+                "height": 1282,
+                "src": "https://cdn.shopify.com/s/files/1/2115/8957/products/C00A6447.jpg?v=1680209994",
+                "variant_ids": [
+                    34248151990411,
+                    34248152023179,
+                    34248152055947,
+                    34248152088715,
+                    34248152121483
+                ],
+                "admin_graphql_api_id": "gid://shopify/ProductImage/28253473636491"
+            },
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/5023373361291",
+            "options": [
+                {
+                    "id": 6514025201803,
+                    "product_id": 5023373361291,
+                    "name": "Type",
+                    "position": 1
+                }
+            ],
+            "images": [
+                {
+                    "id": 28253473636491,
+                    "product_id": 5023373361291,
+                    "position": 1,
+                    "created_at": "2021-06-16T20:50:35-07:00",
+                    "updated_at": "2023-03-30T13:59:54-07:00",
+                    "alt": null,
+                    "width": 1349,
+                    "height": 1282,
+                    "src": "https://cdn.shopify.com/s/files/1/2115/8957/products/C00A6447.jpg?v=1680209994",
+                    "variant_ids": [
+                        34248151990411,
+                        34248152023179,
+                        34248152055947,
+                        34248152088715,
+                        34248152121483
+                    ],
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/28253473636491"
+                },
+                {
+                    "id": 32174361051275,
+                    "product_id": 5023373361291,
+                    "position": 2,
+                    "created_at": "2023-03-30T13:59:39-07:00",
+                    "updated_at": "2023-03-30T15:18:45-07:00",
+                    "alt": null,
+                    "width": 1186,
+                    "height": 1196,
+                    "src": "https://cdn.shopify.com/s/files/1/2115/8957/products/Screenshot_3.jpg?v=1680214725",
+                    "variant_ids": [
+                        34250259398795
+                    ],
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/32174361051275"
+                }
+            ]
+        },
+        {
+            "id": 5024637616267,
+            "title": "Replacement Interior Pad for Pet Rover Stroller (1 Piece)",
+            "body_html": "<p data-mce-fragment=\"1\">One replacement Interior Pad for Pet Rover Stroller.</p>\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">This product is only compatible with HPZ Pet Rover strollers. </span></p>\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">The product image shown is for illustration purposes only and may not be an exact representation of the actual product.</span></p>",
+            "vendor": "HPZ",
+            "product_type": "acc",
+            "created_at": "2020-09-26T19:16:18-07:00",
+            "handle": "replacement-interior-pad-pet-rover-stroller-single",
+            "updated_at": "2024-07-09T14:15:07-07:00",
+            "published_at": "2021-06-21T00:26:04-07:00",
+            "template_suffix": "accessories-new",
+            "published_scope": "global",
+            "tags": "Replacement Parts",
+            "image": {
+                "id": 16455042334859,
+                "product_id": 5024637616267,
+                "position": 1,
+                "created_at": "2020-09-26T19:17:43-07:00",
+                "updated_at": "2021-04-15T19:22:19-07:00",
+                "alt": "Replacement Interior Pad for Pet Rover Stroller (1 Piece) - HPZ™ PET ROVER",
+                "width": 800,
+                "height": 860,
+                "src": "https://cdn.shopify.com/s/files/1/2115/8957/products/20161031_003257123_iOSb.jpg?v=1618539739",
+                "variant_ids": [],
+                "admin_graphql_api_id": "gid://shopify/ProductImage/16455042334859"
+            },
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/5024637616267",
+            "options": [
+                {
+                    "id": 6515889111179,
+                    "product_id": 5024637616267,
+                    "name": "Type",
+                    "position": 1
+                }
+            ],
+            "images": [
+                {
+                    "id": 16455042334859,
+                    "product_id": 5024637616267,
+                    "position": 1,
+                    "created_at": "2020-09-26T19:17:43-07:00",
+                    "updated_at": "2021-04-15T19:22:19-07:00",
+                    "alt": "Replacement Interior Pad for Pet Rover Stroller (1 Piece) - HPZ™ PET ROVER",
+                    "width": 800,
+                    "height": 860,
+                    "src": "https://cdn.shopify.com/s/files/1/2115/8957/products/20161031_003257123_iOSb.jpg?v=1618539739",
+                    "variant_ids": [],
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/16455042334859"
+                }
+            ]
+        },
+        {
+            "id": 5028947034251,
+            "title": "Replacement Carrier for HPZ Pet Rover Prime Stroller",
+            "body_html": "<p>The product image shown is for illustration purposes only and may not be an exact representation of the actual product.<br></p>\n<p><span>This product is only compatible with HPZ Pet Rover strollers. </span></p>",
+            "vendor": "HPZ",
+            "product_type": "acc",
+            "created_at": "2020-10-05T22:33:12-07:00",
+            "handle": "replacement-carrier-for-hpz-pet-rover-prime",
+            "updated_at": "2024-06-26T19:45:08-07:00",
+            "published_at": "2021-06-21T00:26:05-07:00",
+            "template_suffix": "accessories-new",
+            "published_scope": "global",
+            "tags": "Replacement Parts",
+            "image": {
+                "id": 28035405447307,
+                "product_id": 5028947034251,
+                "position": 1,
+                "created_at": "2021-04-05T16:14:45-07:00",
+                "updated_at": "2021-07-20T16:13:11-07:00",
+                "alt": null,
+                "width": 1497,
+                "height": 1495,
+                "src": "https://cdn.shopify.com/s/files/1/2115/8957/products/Screenshot_3_08f58155-ff17-42a0-8454-4c2183661ee2.jpg?v=1626822791",
+                "variant_ids": [],
+                "admin_graphql_api_id": "gid://shopify/ProductImage/28035405447307"
+            },
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/5028947034251",
+            "options": [
+                {
+                    "id": 6522036912267,
+                    "product_id": 5028947034251,
+                    "name": "Color",
+                    "position": 1
+                }
+            ],
+            "images": [
+                {
+                    "id": 28035405447307,
+                    "product_id": 5028947034251,
+                    "position": 1,
+                    "created_at": "2021-04-05T16:14:45-07:00",
+                    "updated_at": "2021-07-20T16:13:11-07:00",
+                    "alt": null,
+                    "width": 1497,
+                    "height": 1495,
+                    "src": "https://cdn.shopify.com/s/files/1/2115/8957/products/Screenshot_3_08f58155-ff17-42a0-8454-4c2183661ee2.jpg?v=1626822791",
+                    "variant_ids": [],
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/28035405447307"
+                }
+            ]
+        },
+        {
+            "id": 6581527707787,
+            "title": "Replacement Under Basket for Pet Rover Stroller",
+            "body_html": "<p>Replacement Under Basket for Pet Rover Stroller.</p>\n<p><span>This product is only compatible with HPZ Pet Rover strollers. </span></p>\n<p><span>The product image shown is for illustration purposes only and may not be an exact representation of the actual product.</span></p>",
+            "vendor": "HPZ",
+            "product_type": "acc",
+            "created_at": "2021-06-04T18:30:14-07:00",
+            "handle": "replacement-under-basket-for-pet-rover-stroller",
+            "updated_at": "2024-07-06T11:00:06-07:00",
+            "published_at": "2021-06-21T00:26:05-07:00",
+            "template_suffix": "accessories-new",
+            "published_scope": "global",
+            "tags": "Replacement Parts",
+            "image": {
+                "id": 28221336715403,
+                "product_id": 6581527707787,
+                "position": 1,
+                "created_at": "2021-06-04T18:30:40-07:00",
+                "updated_at": "2021-06-04T18:33:05-07:00",
+                "alt": null,
+                "width": 1023,
+                "height": 1024,
+                "src": "https://cdn.shopify.com/s/files/1/2115/8957/products/2_bb1753fc-133a-47e5-9276-e39cbeef60b2.jpg?v=1622856785",
+                "variant_ids": [],
+                "admin_graphql_api_id": "gid://shopify/ProductImage/28221336715403"
+            },
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/6581527707787",
+            "options": [
+                {
+                    "id": 8468474921099,
+                    "product_id": 6581527707787,
+                    "name": "Type",
+                    "position": 1
+                }
+            ],
+            "images": [
+                {
+                    "id": 28221336715403,
+                    "product_id": 6581527707787,
+                    "position": 1,
+                    "created_at": "2021-06-04T18:30:40-07:00",
+                    "updated_at": "2021-06-04T18:33:05-07:00",
+                    "alt": null,
+                    "width": 1023,
+                    "height": 1024,
+                    "src": "https://cdn.shopify.com/s/files/1/2115/8957/products/2_bb1753fc-133a-47e5-9276-e39cbeef60b2.jpg?v=1622856785",
+                    "variant_ids": [],
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/28221336715403"
+                }
+            ]
+        },
+        {
+            "id": 6587060289675,
+            "title": "Replacement Cup Holder for Pet Rover Stroller",
+            "body_html": "<p>Replacement Cup Holder for Pet Rover Stroller.</p>\n<p><span>This product is only compatible with HPZ Pet Rover strollers. </span></p>\n<p><span>The product image shown is for illustration purposes only and may not be an exact representation of the actual product.</span></p>",
+            "vendor": "HPZ",
+            "product_type": "acc",
+            "created_at": "2021-06-16T20:51:01-07:00",
+            "handle": "replacement-cup-holder-for-pet-rover-stroller",
+            "updated_at": "2024-07-01T19:40:18-07:00",
+            "published_at": "2021-06-21T00:26:06-07:00",
+            "template_suffix": "accessories-new",
+            "published_scope": "global",
+            "tags": "Replacement Parts",
+            "image": {
+                "id": 28253474553995,
+                "product_id": 6587060289675,
+                "position": 1,
+                "created_at": "2021-06-16T20:51:23-07:00",
+                "updated_at": "2021-06-16T20:53:19-07:00",
+                "alt": null,
+                "width": 1023,
+                "height": 1024,
+                "src": "https://cdn.shopify.com/s/files/1/2115/8957/products/2_cc5e1bd2-0e86-4b55-bb62-66d33682eb97.jpg?v=1623901999",
+                "variant_ids": [],
+                "admin_graphql_api_id": "gid://shopify/ProductImage/28253474553995"
+            },
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/6587060289675",
+            "options": [
+                {
+                    "id": 8475824914571,
+                    "product_id": 6587060289675,
+                    "name": "Type",
+                    "position": 1
+                }
+            ],
+            "images": [
+                {
+                    "id": 28253474553995,
+                    "product_id": 6587060289675,
+                    "position": 1,
+                    "created_at": "2021-06-16T20:51:23-07:00",
+                    "updated_at": "2021-06-16T20:53:19-07:00",
+                    "alt": null,
+                    "width": 1023,
+                    "height": 1024,
+                    "src": "https://cdn.shopify.com/s/files/1/2115/8957/products/2_cc5e1bd2-0e86-4b55-bb62-66d33682eb97.jpg?v=1623901999",
+                    "variant_ids": [],
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/28253474553995"
+                }
+            ]
+        }
+    ]
+}

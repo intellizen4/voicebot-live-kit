@@ -1,0 +1,3 @@
+export LIVEKIT_URL=wss://simon-fhycabkk.livekit.cloud
+export LIVEKIT_API_KEY=APIx2UzcDkGxkw3
+export LIVEKIT_API_SECRET=spzl3CpZAeIXfkKRuOjggFcI3Cfjs3NxFjAQGWhfxsVB

@@ -1,0 +1,10 @@
+{
+	"trunk_ids": [],
+	"hide_phone_number": false,
+	"rule": {
+		"dispatchRuleIndividual": {
+			"roomPrefix": "called_Number-",
+			"pin": ""
+		}
+	}
+}
